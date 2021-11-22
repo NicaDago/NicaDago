@@ -4,6 +4,7 @@
 **NicaDago/NicaDago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning Phyton
@@ -12,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything you like
 - 📫 How to reach me: www.monart.space
 - ⚡ Fun fact: during my master degree course as a web designer I fell in love with Data Science
--->
+
