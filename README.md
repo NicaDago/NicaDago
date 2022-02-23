@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Phyton
 - 💬 Ask me about anything you like
 - 📫 You can reach me om my [linkedin]
-- ⚡ Fun fact: during my master degree course as a web designer I fell in love with Data Science
+
 
 
 ## Skills:
@@ -30,5 +30,4 @@ Here are some ideas to get you started:
 
 
 
-[portfolio]: https://www.monart.space
 [linkedin]: https://www.linkedin.com/in/monica-d-agosto-aa340813/
