@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning Figma
 - 💬 Ask me about anything you like
 - 📫 You can reach me om my [linkedin]
 
